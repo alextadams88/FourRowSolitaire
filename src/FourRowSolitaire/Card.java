@@ -353,32 +353,4 @@ public class Card extends JComponent
     	}
     	return false;
     }
-//    public boolean equals(Card in){
-//    	return this.getSuit() == in.getSuit() &&
-//    			this.getColor() == in.getColor() &&
-//    			this.getNumber() == in.getNumber() &&
-//    			this.getFullNumber() == in.getFullNumber() &&
-//    			this.getSource() == in.getSource() ;//&& 
-//    			//this.getImage() == in.getImage();
-//    }
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
 }
